@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study\\.NET\\Lab\\Product_Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Product_Shop\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T10:52:23.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Product_Shop\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T10:18:11.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Product_Shop\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T07:33:55.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Product_Shop\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T07:32:46.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product_Shop\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product_Shop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T05:53:50.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
