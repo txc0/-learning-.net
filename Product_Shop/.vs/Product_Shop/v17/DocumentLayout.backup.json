@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Study\\.NET\\Lab\\Product_Shop\\",
+  "WorkspaceRootPath": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\product_shop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\product_shop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\product_shop\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\product_shop\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\-learning-.net\\product_shop\\product_shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Delete.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Delete.cshtml",
               "RelativeToolTip": "Product_Shop\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-29T10:52:23.599Z",
               "EditorCaption": ""
@@ -53,24 +53,24 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Edit.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Edit.cshtml",
               "RelativeToolTip": "Product_Shop\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-29T10:18:11.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Create.cshtml",
-              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Product_Shop\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-29T07:33:55.727Z",
               "EditorCaption": ""
@@ -79,9 +79,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Index.cshtml",
-              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Product_Shop\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -90,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Product_Shop\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Product_Shop\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T05:53:50.086Z",
               "EditorCaption": ""

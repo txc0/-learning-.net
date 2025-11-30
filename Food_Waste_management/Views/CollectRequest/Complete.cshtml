@@ -1,0 +1,25 @@
+﻿@model Food_Waste_management.EF.CollectRequest
+
+@{
+    ViewBag.Title = "Complete Request";
+}
+
+<h2>Complete Request</h2>
+
+<p>
+    <strong>Restaurant:</strong> @Model.Restaurant.Name <br />
+    <strong>Food:</strong> @Model.FoodDescription <br />
+</p>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(m => m.Id)
+
+    <div class="form-group">
+        @Html.Label("Distribution Notes")
+        @Html.TextArea("DistributionNotes", Model.DistributionNotes, new { @class = "form-control" })
+    </div>
+
+    <input type="submit" value="Mark Completed" class="btn btn-success" />
+}

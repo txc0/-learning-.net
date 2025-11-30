@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Study\\.NET\\Lab\\Product_Shop\\",
+  "WorkspaceRootPath": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\product_shop\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\-learning-.net\\product_shop\\product_shop\\ef\\productshopmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\ef\\productshopmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\product_shop\\product_shop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\-learning-.net\\product_shop\\product_shop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\product_shop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\product_shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\-learning-.net\\product_shop\\product_shop\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|e:\\study\\.net\\lab\\-learning-.net\\product_shop\\product_shop\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\product_shop\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF9A08-0FDE-4873-99ED-BD14668C74CB}|Product_Shop\\Product_Shop.csproj|solutionrelative:product_shop\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +42,111 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductShopModel.Context.cs",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\EF\\ProductShopModel.Context.cs",
+              "RelativeDocumentMoniker": "Product_Shop\\EF\\ProductShopModel.Context.cs",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\EF\\ProductShopModel.Context.cs",
+              "RelativeToolTip": "Product_Shop\\EF\\ProductShopModel.Context.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:27:25.632Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\EF\\Product.cs",
+              "RelativeDocumentMoniker": "Product_Shop\\EF\\Product.cs",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\EF\\Product.cs",
+              "RelativeToolTip": "Product_Shop\\EF\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T05:26:28.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\EF\\Category.cs",
+              "RelativeDocumentMoniker": "Product_Shop\\EF\\Category.cs",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\EF\\Category.cs",
+              "RelativeToolTip": "Product_Shop\\EF\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T04:57:57.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Delete.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Delete.cshtml",
               "RelativeToolTip": "Product_Shop\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-29T10:52:23.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Edit.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Edit.cshtml",
               "RelativeToolTip": "Product_Shop\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-29T10:18:11.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T10:18:11.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Create.cshtml",
-              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Product_Shop\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-29T07:33:55.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Product_Shop\\Views\\Product\\Index.cshtml",
-              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Product_Shop\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-29T07:32:46.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Product_Shop\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\Study\\.NET\\Lab\\Product_Shop\\Product_Shop\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Study\\.NET\\Lab\\-learning-.net\\Product_Shop\\Product_Shop\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Product_Shop\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T05:53:50.086Z",
               "EditorCaption": ""

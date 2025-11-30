@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ac583d7dbc7142a2a72f2b8f9f314b9f" Name="Diagram1">
+        <EntityTypeShape EntityType="WasteFoodDbModel.CollectRequest" Width="1.5" PointX="4.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="WasteFoodDbModel.Employee" Width="1.5" PointX="1" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="WasteFoodDbModel.Restaurant" Width="1.5" PointX="1.625" PointY="3.625" IsExpanded="true" />
+        <AssociationConnector Association="WasteFoodDbModel.FK__CollectRe__Assig__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="WasteFoodDbModel.FK__CollectRe__Resta__3C69FB99" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

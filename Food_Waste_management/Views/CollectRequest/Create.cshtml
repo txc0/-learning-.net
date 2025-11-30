@@ -1,0 +1,32 @@
+﻿@model Food_Waste_management.EF.CollectRequest
+
+@{
+    ViewBag.Title = "Create Collect Request";
+}
+
+<h2>Create Collect Request</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.RestaurantId, "Restaurant")
+        @Html.DropDownListFor(m => m.RestaurantId,
+            (SelectList)ViewBag.RestaurantId,
+            "-- Select Restaurant --",
+            new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.FoodDescription)
+        @Html.TextAreaFor(m => m.FoodDescription, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.MaxPreserveTime, "Max Preserve Time")
+        @Html.TextBoxFor(m => m.MaxPreserveTime, new { @class = "form-control", type = "datetime-local" })
+    </div>
+
+    <input type="submit" value="Create" class="btn btn-primary" />
+}

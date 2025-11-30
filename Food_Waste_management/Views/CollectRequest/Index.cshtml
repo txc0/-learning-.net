@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Food_Waste_management.EF.CollectRequest>
+
+@{
+    ViewBag.Title = "Collect Requests";
+}
+
+<h2>Collect Requests</h2>
+
+<p>
+    @Html.ActionLink("Create New Request", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>Restaurant</th>
+        <th>Food</th>
+        <th>Max Preserve Time</th>
+        <th>Status</th>
+        <th>Assigned Employee</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Restaurant.Name</td>
+            <td>@item.FoodDescription</td>
+            <td>@item.MaxPreserveTime</td>
+            <td>@item.Status</td>
+            <td>@(item.Employee != null ? item.Employee.Name : "Not Assigned")</td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Assign", "Assign", new { id = item.Id }) |
+                @Html.ActionLink("Complete", "Complete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>
